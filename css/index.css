@@ -1123,12 +1123,11 @@ nav#footer p {
     overflow: hidden;
   }
   .xmjy .xmjy-tab .one {
-    width: 40%;
+    width: 100%;
     float: left;
     text-align: left;
   }
   .xmjy .xmjy-tab .two {
-    width: 60%;
     float: right;
     text-align: right;
   }
