@@ -268,9 +268,9 @@ h2 {
 }
 .btn-circle i.animated {
   -webkit-transition-property: -webkit-transform;
-  -webkit-transition-duration: 1s;
+  -webkit-transition-duration: 1.5s;
   -moz-transition-property: -moz-transform;
-  -moz-transition-duration: 1s;
+  -moz-transition-duration: 1.5s;
 }
 .btn-circle:hover i.animated {
   -webkit-animation-name: pulse;
